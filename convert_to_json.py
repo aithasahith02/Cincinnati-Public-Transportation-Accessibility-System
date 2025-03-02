@@ -5,26 +5,39 @@ import re
 with open("outputs.txt", "r") as file:
     lines = file.readlines()
 
-detections = {"1001": {0: [], 120: [], 240: []}}
+detections = {}
 detection_pattern = re.compile(r"\((\d+), ([\d\.]+), \[([\d\., ]+)\]\)")
+current_id = None
+current_category = None
+category_index = 0
 category_keys = [0, 120, 240]
-current_category = 0
 
 for line in lines:
     line = line.strip()
-    if not line or line.startswith("Detections for ID"):
+    if not line:
         continue
+    if line.startswith("Detections for ID"):
+        current_id = line.split()[-1].strip(":")
+        detections[current_id] = {0: [], 120: [], 240: []} 
+        category_index = 0
+        continue
+    if "=" in line:
+        category_name, status = line.split("=")
+        category_name = category_name.strip()
+        status = status.strip()
+        roadway_status = {category_name.lower(): status == "True"}
+        detections[current_id][category_keys[category_index]].append(roadway_status)
+        continue
+
     if line == "-":
-        current_category += 1
+        category_index += 1
         continue
-    if line.startswith("Roadway"):
-        roadway_status = "roadway:true" if "True" in line else "roadway:false"
-        detections["1001"][category_keys[current_category]].append(roadway_status)
+
     matches = detection_pattern.findall(line)
     if matches:
         for class_id, score, box in matches:
             box_values = list(map(float, box.split(", ")))
-            detections["1001"][category_keys[current_category]].append({
+            detections[current_id][category_keys[category_index]].append({
                 "class_id": int(class_id),
                 "score": round(float(score), 6),
                 "box": box_values

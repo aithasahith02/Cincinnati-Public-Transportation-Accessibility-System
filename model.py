@@ -17,6 +17,19 @@ MODEL_ID = "sidewalk_segment3"
 VERSION = 4
 IMAGE_PATH = "images/1001-0.jpeg" 
 
+def convert_numpy_to_python(obj):
+    if isinstance(obj, np.ndarray):
+        return obj.tolist()
+    elif isinstance(obj, (np.int64, np.int32)):
+        return int(obj)
+    elif isinstance(obj, (np.float32, np.float64)):
+        return float(obj)
+    elif isinstance(obj, list):
+        return [convert_numpy_to_python(i) for i in obj]
+    elif isinstance(obj, tuple):
+        return tuple(convert_numpy_to_python(i) for i in obj)
+    return obj
+
 if not os.path.exists(IMAGE_PATH):
     raise FileNotFoundError(f"Error: Image file not found at '{IMAGE_PATH}'")
 
@@ -82,6 +95,10 @@ class YOLOv8:
                 boxes.append([x, y, w, h])
                 scores.append(max_score)
                 class_ids.append(class_id)
+        boxes = convert_numpy_to_python(boxes)
+        scores = convert_numpy_to_python(scores)
+        class_ids = convert_numpy_to_python(class_ids)
+        print(boxes, scores, class_ids)
         return boxes, scores, class_ids
 
     def process_directory(self, file):
@@ -109,6 +126,6 @@ if __name__ == "__main__":
     check_requirements("onnxruntime-gpu" if torch.cuda.is_available() else "onnxruntime")
 
     # Open the output file in write mode
-    with open("outputs.txt", "w") as file:
+    with open("outputs2.txt", "w") as file:
         detection = YOLOv8(model, input_dir, conf_thres, iou_thres)
         detection.process_directory(file)
