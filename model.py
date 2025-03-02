@@ -12,10 +12,10 @@ import torch
 import cv2
 import os
 
-API_KEY = "lSimhYmnzM262Ys6NIzn"
+API_KEY = "lSimhYmxxxxxxxxxxx"
 MODEL_ID = "sidewalk_segment3"
 VERSION = 4
-IMAGE_PATH = "images/1001-0.jpeg" 
+IMAGE_PATH = "images/" 
 
 def convert_numpy_to_python(obj):
     if isinstance(obj, np.ndarray):
@@ -125,7 +125,7 @@ if __name__ == "__main__":
     iou_thres = 0.5  # IOU threshold for YOLOv8
     check_requirements("onnxruntime-gpu" if torch.cuda.is_available() else "onnxruntime")
 
-    # Open the output file in write mode
+    # Opening the output file in write mode
     with open("outputs2.txt", "w") as file:
         detection = YOLOv8(model, input_dir, conf_thres, iou_thres)
         detection.process_directory(file)

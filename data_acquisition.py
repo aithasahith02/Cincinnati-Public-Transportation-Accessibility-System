@@ -2,7 +2,7 @@ import os
 import urllib.request
 import pandas as pd
 
-API_KEY = "AIzaSyDB5a_qba5Y7e7fR8QvZGU6Em7l-tY6LPo"
+API_KEY = "AIzaSyDB5a_xxxxxxxxxxxx"
 SAVE_PATH = "C:\\Users\\sevmy\\OneDrive\\Documents\\RevolutionUC\\Vision AI Learning\\Archive"
 
 if __name__ == "__main__":
