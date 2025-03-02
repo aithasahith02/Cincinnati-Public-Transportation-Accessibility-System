@@ -1,0 +1,7 @@
+ultralytics
+roboflow
+onnxruntime
+numpy
+torch
+opencv-python
+pyyaml
