@@ -1,0 +1,3335 @@
+{
+    "1001": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101419,
+        "longitude": -84.510984,
+        "stop name": "Government Square Area A"
+    },
+    "1002": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101482,
+        "longitude": -84.510552,
+        "stop name": "Government Square Area B"
+    },
+    "1003": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.10158,
+        "longitude": -84.510226,
+        "stop name": "Government Square Area C"
+    },
+    "1004": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101428,
+        "longitude": -84.511486,
+        "stop name": "Government Square Area D"
+    },
+    "1005": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101298,
+        "longitude": -84.510563,
+        "stop name": "Government Square Area E"
+    },
+    "1006": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.10142,
+        "longitude": -84.509945,
+        "stop name": "Government Square Area F"
+    },
+    "1007": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102196,
+        "longitude": -84.509783,
+        "stop name": "Government Square Area G"
+    },
+    "1008": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102669,
+        "longitude": -84.509912,
+        "stop name": "Government Square Area H"
+    },
+    "1020": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.09785,
+        "longitude": -84.512264,
+        "stop name": "Riverfront Transit Center Stop"
+    },
+    "1021": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.098104,
+        "longitude": -84.518916,
+        "stop name": "CENTRAL AVE & W. THIRD ST"
+    },
+    "1024": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.098939,
+        "longitude": -84.511262,
+        "stop name": "3RD & WALNUT"
+    },
+    "1025": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.098952,
+        "longitude": -84.518929,
+        "stop name": "CENTRAL AVE & 4TH ST"
+    },
+    "1026": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.099028,
+        "longitude": -84.510655,
+        "stop name": "3RD ST & WALNUT ST"
+    },
+    "1028": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.099345,
+        "longitude": -84.517319,
+        "stop name": "4TH ST & PLUM ST"
+    },
+    "1029": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.099587,
+        "longitude": -84.515697,
+        "stop name": "4TH ST & ELM ST"
+    },
+    "1030": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.099759,
+        "longitude": -84.5125,
+        "stop name": "VINE ST & 4TH ST"
+    },
+    "1032": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.099829,
+        "longitude": -84.514122,
+        "stop name": "4TH ST & RACE ST"
+    },
+    "1033": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.100053,
+        "longitude": -84.51257,
+        "stop name": "4TH ST & VINE ST"
+    },
+    "1034": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.100152,
+        "longitude": -84.511893,
+        "stop name": "4TH ST & POSTAL AL"
+    },
+    "1037": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.100322,
+        "longitude": -84.510645,
+        "stop name": "4TH ST & WALNUT ST"
+    },
+    "1038": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.100643,
+        "longitude": -84.516368,
+        "stop name": "5TH ST & ELM ST"
+    },
+    "1039": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101061,
+        "longitude": -84.513446,
+        "stop name": "5TH ST & VINE ST"
+    },
+    "1041": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.10108,
+        "longitude": -84.512116,
+        "stop name": "5TH ST & FOUNTAIN SQUARE"
+    },
+    "1047": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101907,
+        "longitude": -84.516388,
+        "stop name": "ELM ST & 6TH ST"
+    },
+    "1049": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101906,
+        "longitude": -84.51808,
+        "stop name": "6TH ST & PLUM ST"
+    },
+    "1050": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102139,
+        "longitude": -84.5164,
+        "stop name": "6TH ST & ELM ST"
+    },
+    "1051": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102261,
+        "longitude": -84.51975,
+        "stop name": "CENTRAL AVE & 7TH ST"
+    },
+    "1052": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102273,
+        "longitude": -84.515046,
+        "stop name": "RACE ST & 6TH ST"
+    },
+    "1053": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102336,
+        "longitude": -84.514685,
+        "stop name": "6TH ST & RACE ST"
+    },
+    "1054": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102355,
+        "longitude": -84.513156,
+        "stop name": "VINE ST & 6TH ST"
+    },
+    "1056": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102658,
+        "longitude": -84.512759,
+        "stop name": "6TH ST & RUTH LYONS ALY"
+    },
+    "1057": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102878,
+        "longitude": -84.518525,
+        "stop name": "7TH ST & PLUM ST"
+    },
+    "1058": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102919,
+        "longitude": -84.510682,
+        "stop name": "6TH ST & MAIN ST"
+    },
+    "1061": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.103254,
+        "longitude": -84.516016,
+        "stop name": "7TH ST & RACE ST"
+    },
+    "1062": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.103807,
+        "longitude": -84.512277,
+        "stop name": "7TH ST & WALNUT ST"
+    },
+    "1063": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.103504,
+        "longitude": -84.515363,
+        "stop name": "RACE ST & 7TH ST"
+    },
+    "1064": {
+        "features": [
+            1
+        ],
+        "active headings": [
+            "0"
+        ],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.103517,
+        "longitude": -84.510123,
+        "stop name": "MAIN MID 6TH & 7TH"
+    },
+    "1065": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.103595,
+        "longitude": -84.513764,
+        "stop name": "7TH ST & VINE ST"
+    },
+    "1069": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.104252,
+        "longitude": -84.518865,
+        "stop name": "PLUM ST & 9TH ST"
+    },
+    "1070": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.104255,
+        "longitude": -84.513636,
+        "stop name": "VINE ST & 8TH ST"
+    },
+    "1071": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.104522,
+        "longitude": -84.515567,
+        "stop name": "RACE ST & 8TH ST"
+    },
+    "1072": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.104738,
+        "longitude": -84.512295,
+        "stop name": "WALNUT ST & 8TH ST"
+    },
+    "1073": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.104739,
+        "longitude": -84.510427,
+        "stop name": "MAIN ST & 8TH ST"
+    },
+    "1074": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.104742,
+        "longitude": -84.518772,
+        "stop name": "9TH ST & PLUM ST"
+    },
+    "1075": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.104797,
+        "longitude": -84.517115,
+        "stop name": "ELM ST & 9TH ST"
+    },
+    "1077": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.104836,
+        "longitude": -84.511653,
+        "stop name": "8TH ST & WALNUT ST"
+    },
+    "1081": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.106337,
+        "longitude": -84.508316,
+        "stop name": "9TH ST & CHEAPSIDE ST"
+    },
+    "1084": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.105223,
+        "longitude": -84.515529,
+        "stop name": "9TH ST & RACE ST"
+    },
+    "1085": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.105302,
+        "longitude": -84.513918,
+        "stop name": "VINE ST & 9TH ST"
+    },
+    "1087": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.105414,
+        "longitude": -84.514396,
+        "stop name": "9TH ST & VINE ST"
+    },
+    "1090": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.105658,
+        "longitude": -84.510673,
+        "stop name": "MAIN ST & 9TH ST"
+    },
+    "1092": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.105707,
+        "longitude": -84.51735,
+        "stop name": "ELM ST & COURT ST"
+    },
+    "1096": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.105784,
+        "longitude": -84.511897,
+        "stop name": "9TH ST & WALNUT ST"
+    },
+    "1097": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.291923,
+        "longitude": -84.394188,
+        "stop name": "LENANON RD & CRYSTALVIEW CT"
+    },
+    "1098": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.099988,
+        "longitude": -84.502195,
+        "stop name": "PETE ROSE WAY 537"
+    },
+    "1099": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.212586,
+        "longitude": -84.459183,
+        "stop name": "Greyhound Station Arlington Heights"
+    },
+    "1104": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.098477,
+        "longitude": -84.508122,
+        "stop name": "RTC EAST"
+    },
+    "1105": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.097133,
+        "longitude": -84.516768,
+        "stop name": "RTC WEST"
+    },
+    "1106": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.099103,
+        "longitude": -84.504866,
+        "stop name": "BROADWAY & PETE ROSE WAY"
+    },
+    "1111": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.099404,
+        "longitude": -84.5081,
+        "stop name": "3RD ST & SYCAMORE ST"
+    },
+    "1112": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.099434,
+        "longitude": -84.503046,
+        "stop name": "PETE ROSE WAY & MEHRING WAY"
+    },
+    "1114": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.103635,
+        "longitude": -84.506715,
+        "stop name": "BROADWAY & 6TH ST"
+    },
+    "1115": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.105276,
+        "longitude": -84.507102,
+        "stop name": "BROADWAY & 8TH ST"
+    },
+    "1116": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.100271,
+        "longitude": -84.506046,
+        "stop name": "BROADWAY & ARCH ST"
+    },
+    "1118": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.099845,
+        "longitude": -84.502638,
+        "stop name": "PETE ROSE WAY 536"
+    },
+    "1119": {
+        "features": [
+            1
+        ],
+        "active headings": [
+            "120"
+        ],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.100555,
+        "longitude": -84.509256,
+        "stop name": "4TH ST & MAIN ST"
+    },
+    "1123": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.100743,
+        "longitude": -84.507937,
+        "stop name": "SYCAMORE ST & 4TH ST"
+    },
+    "1124": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.10077,
+        "longitude": -84.507692,
+        "stop name": "4TH ST & SYCAMORE ST"
+    },
+    "1126": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101238,
+        "longitude": -84.500539,
+        "stop name": "PETE ROSE WAY & BUTLER ST"
+    },
+    "1127": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101255,
+        "longitude": -84.502733,
+        "stop name": "PIKE ST & 3RD ST"
+    },
+    "1131": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101771,
+        "longitude": -84.50397,
+        "stop name": "4TH ST & PIKE ST"
+    },
+    "1132": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101876,
+        "longitude": -84.507667,
+        "stop name": "5TH ST & SYCAMORE ST"
+    },
+    "1134": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101992,
+        "longitude": -84.508265,
+        "stop name": "SYCAMORE ST & 5TH ST"
+    },
+    "1135": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.10552,
+        "longitude": -84.553225,
+        "stop name": "State Ave & 8th St Southbound"
+    },
+    "1138": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102279,
+        "longitude": -84.505091,
+        "stop name": "5TH ST & LAWRENCE ST"
+    },
+    "1139": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102458,
+        "longitude": -84.504181,
+        "stop name": "5TH ST & PIKE ST"
+    },
+    "1141": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102529,
+        "longitude": -84.500535,
+        "stop name": "3RD ST & EGGLESTON AVE"
+    },
+    "1143": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.103268,
+        "longitude": -84.50836,
+        "stop name": "6TH ST & SYCAMORE ST"
+    },
+    "1144": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.103428,
+        "longitude": -84.508617,
+        "stop name": "SYCAMORE ST & 6TH ST"
+    },
+    "1146": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.104383,
+        "longitude": -84.508443,
+        "stop name": "7TH ST & SYCAMORE ST"
+    },
+    "1147": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.104439,
+        "longitude": -84.508811,
+        "stop name": "SYCAMORE ST & 7TH ST"
+    },
+    "1149": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.105374,
+        "longitude": -84.508187,
+        "stop name": "8TH ST & CHEAPSIDE ST"
+    },
+    "1150": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.105392,
+        "longitude": -84.50709,
+        "stop name": "8TH ST & BROADWAY"
+    },
+    "1151": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.105712,
+        "longitude": -84.509215,
+        "stop name": "SYCAMORE ST & ALDEN ALY"
+    },
+    "1153": {
+        "features": [
+            1
+        ],
+        "active headings": [
+            "0"
+        ],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.106854,
+        "longitude": -84.509507,
+        "stop name": "SYCAMORE ST & COURT ST"
+    },
+    "1155": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.106893,
+        "longitude": -84.504185,
+        "stop name": "GILBERT AVE & COURT ST"
+    },
+    "1157": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.107978,
+        "longitude": -84.50952,
+        "stop name": "CENTRAL PKWY & SYCAMORE ST"
+    },
+    "1158": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.108064,
+        "longitude": -84.5036,
+        "stop name": "GILBERT AVE & COURT ST"
+    },
+    "1159": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.110221,
+        "longitude": -84.504282,
+        "stop name": "READING RD & 12TH ST"
+    },
+    "1160": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.108442,
+        "longitude": -84.509918,
+        "stop name": "SYCAMORE ST & READING RD"
+    },
+    "1164": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.10884,
+        "longitude": -84.50662,
+        "stop name": "READING RD at PENDLETON ST"
+    },
+    "1165": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.109148,
+        "longitude": -84.506447,
+        "stop name": "READING RD at PENDLETON ST"
+    },
+    "1166": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.113255,
+        "longitude": -84.502534,
+        "stop name": "READING RD & ELSINORE PL"
+    },
+    "1168": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.110408,
+        "longitude": -84.504387,
+        "stop name": "READING RD & 12TH ST"
+    },
+    "1171": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.112494,
+        "longitude": -84.507564,
+        "stop name": "LIBERTY HILL & CUMBER ST"
+    },
+    "1172": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.11249,
+        "longitude": -84.50302,
+        "stop name": "READING RD & CITY STEPS"
+    },
+    "1174": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.112298,
+        "longitude": -84.506863,
+        "stop name": "LIBERTY HILL & YOUNG ST"
+    },
+    "1175": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.112344,
+        "longitude": -84.504272,
+        "stop name": "HIGHLAND AVE & LIBERTY HILL"
+    },
+    "1182": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.112889,
+        "longitude": -84.504028,
+        "stop name": "LIBERTY HILL & HIGHLAND AVE"
+    },
+    "1183": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.113083,
+        "longitude": -84.501859,
+        "stop name": "ELSINORE PL & READING RD"
+    },
+    "1184": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.113642,
+        "longitude": -84.49989,
+        "stop name": "GILBERT AVE & ELSINORE PL"
+    },
+    "1186": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.113247,
+        "longitude": -84.502149,
+        "stop name": "ELSINORE PL & READING RD"
+    },
+    "1187": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.113665,
+        "longitude": -84.503877,
+        "stop name": "HIGHLAND AVE & BOAL ST"
+    },
+    "1188": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.113843,
+        "longitude": -84.50404,
+        "stop name": "HIGHLAND AVE & BOAL ST"
+    },
+    "1189": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.114816,
+        "longitude": -84.503726,
+        "stop name": "HIGHLAND AVE & RINGGOLD ST"
+    },
+    "1190": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.112128,
+        "longitude": -84.502966,
+        "stop name": "READING RD & ELSINORE PL"
+    },
+    "1192": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.115075,
+        "longitude": -84.503901,
+        "stop name": "HIGHLAND AVE & RINGGOLD ST"
+    },
+    "1201": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.25144,
+        "longitude": -84.793912,
+        "stop name": "HARRISON CENTER - HARRISON & WEST"
+    },
+    "1202": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.250773,
+        "longitude": -84.793102,
+        "stop name": "HARRISON CENTER - HARRISON & WEST"
+    },
+    "1203": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.25484,
+        "longitude": -84.784327,
+        "stop name": "WEST RD & CAROLINA TRACE RD"
+    },
+    "1205": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.242397,
+        "longitude": -84.770303,
+        "stop name": "DRY FORK RD & I-74"
+    },
+    "1207": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.25469,
+        "longitude": -84.777309,
+        "stop name": "WEST RD 10030"
+    },
+    "1209": {
+        "features": [
+            1
+        ],
+        "active headings": [
+            "0",
+            "120"
+        ],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.137896,
+        "longitude": -84.711439,
+        "stop name": "MAIN ST 190"
+    },
+    "1211": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.138345,
+        "longitude": -84.71429,
+        "stop name": "RIVER RD 356"
+    },
+    "1212": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.138517,
+        "longitude": -84.71303,
+        "stop name": "MAIN ST & CHURCH ST"
+    },
+    "1219": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.122769,
+        "longitude": -84.701027,
+        "stop name": "GRACELY DR & CATALPA RD"
+    },
+    "1220": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.122947,
+        "longitude": -84.700876,
+        "stop name": "GRACELY DR & CATALPA RD"
+    },
+    "1221": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.125122,
+        "longitude": -84.702121,
+        "stop name": "GRACELY DR & OVERCLIFF RD"
+    },
+    "1222": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.125647,
+        "longitude": -84.702765,
+        "stop name": "GRACELY DR & OVERCLIFF RD"
+    },
+    "1226": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.127418,
+        "longitude": -84.704885,
+        "stop name": "GRACELY DR & WYNNE PL"
+    },
+    "1227": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.127819,
+        "longitude": -84.70519,
+        "stop name": "GRACELY DR & WYNNE PL"
+    },
+    "1231": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.129407,
+        "longitude": -84.704997,
+        "stop name": "GRACELY DR & BIRCH LN"
+    },
+    "1232": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.129977,
+        "longitude": -84.705747,
+        "stop name": "GRACELY DR 7467"
+    },
+    "1233": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.131269,
+        "longitude": -84.70644,
+        "stop name": "GRACELY DR & KIBBY LN"
+    },
+    "1234": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.131304,
+        "longitude": -84.706732,
+        "stop name": "KIBBY LN & GRACELY DR"
+    },
+    "1235": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.131311,
+        "longitude": -84.707433,
+        "stop name": "KIBBY LN & RIVER RD"
+    },
+    "1237": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.134048,
+        "longitude": -84.708669,
+        "stop name": "THREE RIVERS PARKWAY 5725"
+    },
+    "1238": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.134297,
+        "longitude": -84.708997,
+        "stop name": "THREE RIVERS PKWY 7524"
+    },
+    "1242": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.111608,
+        "longitude": -84.691695,
+        "stop name": "GRACELY DR & TWAIN AVE"
+    },
+    "1243": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.111679,
+        "longitude": -84.69201,
+        "stop name": "GRACELY DR & TWAIN AVE"
+    },
+    "1244": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.112455,
+        "longitude": -84.692386,
+        "stop name": "GRACELY DR & MONITOR AVE"
+    },
+    "1248": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.114458,
+        "longitude": -84.694273,
+        "stop name": "GRACELY DR & ELCO ST"
+    },
+    "1258": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.11608,
+        "longitude": -84.695306,
+        "stop name": "GRACELY DR & CHEROKEE AVE"
+    },
+    "1259": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.116177,
+        "longitude": -84.695645,
+        "stop name": "GRACELY DR & CHEROKEE AVE"
+    },
+    "1262": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.119072,
+        "longitude": -84.698165,
+        "stop name": "GRACELY DR 6957"
+    },
+    "1263": {
+        "features": [
+            1
+        ],
+        "active headings": [
+            "120"
+        ],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.119242,
+        "longitude": -84.698037,
+        "stop name": "GRACELY DR 6950"
+    },
+    "1265": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.120916,
+        "longitude": -84.699654,
+        "stop name": "GRACELY DR & WILKINS SHORT RD"
+    },
+    "1266": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.12113,
+        "longitude": -84.699573,
+        "stop name": "GRACELY DR & WILKENS SHORT RD"
+    },
+    "1269": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.103018,
+        "longitude": -84.681978,
+        "stop name": "RIVER RD & DART ST"
+    },
+    "1270": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.10333,
+        "longitude": -84.6822,
+        "stop name": "RIVER RD & DART ST MB"
+    },
+    "1272": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.104095,
+        "longitude": -84.683172,
+        "stop name": "GRACELY DR & CIST ST"
+    },
+    "1273": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.104263,
+        "longitude": -84.683849,
+        "stop name": "GRACELY DR & RIVER RD"
+    },
+    "1276": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.105686,
+        "longitude": -84.686398,
+        "stop name": "GRACELY DR & HUEY AVE"
+    },
+    "1277": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.106372,
+        "longitude": -84.686856,
+        "stop name": "GRACELY DR & HUEY AVE"
+    },
+    "1278": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.107386,
+        "longitude": -84.688085,
+        "stop name": "GRACELY DR & REVERE ST"
+    },
+    "1279": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.107574,
+        "longitude": -84.687992,
+        "stop name": "GRACELY DR & REVERE ST"
+    },
+    "1280": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.108891,
+        "longitude": -84.689584,
+        "stop name": "GRACELY DR & ZINN PL"
+    },
+    "1281": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.10939,
+        "longitude": -84.689819,
+        "stop name": "GRACELY DR & ZINN PL"
+    },
+    "1282": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.250688,
+        "longitude": -84.430174,
+        "stop name": "EVENDALE COMMONS DR"
+    },
+    "1284": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.295756,
+        "longitude": -84.524279,
+        "stop name": "Winton & Chase Plaza Southbound"
+    },
+    "1291": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.159203,
+        "longitude": -84.538457,
+        "stop name": "NORTHSIDE TRANSIT CENTER - SHELTER A"
+    },
+    "1292": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.159364,
+        "longitude": -84.538448,
+        "stop name": "NORTHSIDE TRANSIT CENTER - SHELTER B"
+    },
+    "1293": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.159532,
+        "longitude": -84.538445,
+        "stop name": "NORTHSIDE TRANSIT CENTER - SHELTER C"
+    },
+    "1294": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.15973,
+        "longitude": -84.538415,
+        "stop name": "NORTHSIDE TRANSIT CENTER - SHELTER D"
+    },
+    "1295": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.159798,
+        "longitude": -84.538034,
+        "stop name": "NORTHSIDE TRANSIT CENTER - SHELTER E"
+    },
+    "1296": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.159693,
+        "longitude": -84.538161,
+        "stop name": "NORTHSIDE TRANSIT CENTER - SHELTER F"
+    },
+    "1297": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.159508,
+        "longitude": -84.538191,
+        "stop name": "NORTHSIDE TRANSIT CENTER - SHELTER G"
+    },
+    "1298": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.159322,
+        "longitude": -84.538207,
+        "stop name": "NORTHSIDE TRANSIT CENTER - SHELTER H"
+    },
+    "1299": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.159351,
+        "longitude": -84.53813,
+        "stop name": "NORTHSIDE TRANSIT CENTER - SHELTER I on SPRING GROVE"
+    },
+    "1301": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.100847,
+        "longitude": -84.674478,
+        "stop name": "RIVER RD 5949"
+    },
+    "1302": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101057,
+        "longitude": -84.676509,
+        "stop name": "RIVER RD 5957"
+    },
+    "1303": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101188,
+        "longitude": -84.677945,
+        "stop name": "RIVER RD 6013"
+    },
+    "1304": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101677,
+        "longitude": -84.678822,
+        "stop name": "RIVER RD 6016"
+    },
+    "1307": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.100319,
+        "longitude": -84.670613,
+        "stop name": "RIVER RD & BENDER RD"
+    },
+    "1309": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.098325,
+        "longitude": -84.662962,
+        "stop name": "RIVER RD 5637"
+    },
+    "1310": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.098406,
+        "longitude": -84.662473,
+        "stop name": "RIVER RD 5666"
+    },
+    "1311": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.098724,
+        "longitude": -84.664259,
+        "stop name": "RIVER RD 5680"
+    },
+    "1316": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.099334,
+        "longitude": -84.667365,
+        "stop name": "RIVER RD 5678"
+    },
+    "1319": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.094082,
+        "longitude": -84.650603,
+        "stop name": "RIVER RD 5297"
+    },
+    "1320": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.094492,
+        "longitude": -84.650919,
+        "stop name": "RIVER RD 5336"
+    },
+    "1323": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.095862,
+        "longitude": -84.653502,
+        "stop name": "RIVER RD & WOCHER AVE"
+    },
+    "1324": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.095862,
+        "longitude": -84.65314,
+        "stop name": "RIVER RD & WOCHER AVE"
+    },
+    "1325": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.096467,
+        "longitude": -84.654251,
+        "stop name": "RIVER RD & DARBY RD"
+    },
+    "1329": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.097371,
+        "longitude": -84.657638,
+        "stop name": "RIVER RD 5495"
+    },
+    "1330": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.097452,
+        "longitude": -84.657148,
+        "stop name": "RIVER RD 5495"
+    },
+    "1342": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.086416,
+        "longitude": -84.641094,
+        "stop name": "RIVER RD 5009"
+    },
+    "1343": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.087183,
+        "longitude": -84.641656,
+        "stop name": "RIVER RD 5010"
+    },
+    "1348": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.089863,
+        "longitude": -84.644884,
+        "stop name": "RIVER RD 5125"
+    },
+    "1351": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.091084,
+        "longitude": -84.64595,
+        "stop name": "RIVER RD & STILLE DR"
+    },
+    "1354": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.096625,
+        "longitude": -84.640259,
+        "stop name": "DELHI RD & MATTINGLY BLVD"
+    },
+    "1355": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.09762,
+        "longitude": -84.643109,
+        "stop name": "BENDER RD & BAYLEY PL"
+    },
+    "1356": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.097878,
+        "longitude": -84.643063,
+        "stop name": "BENDER RD & BAYLEY PL"
+    },
+    "1358": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102309,
+        "longitude": -84.650639,
+        "stop name": "BENDER RD 5999"
+    },
+    "1359": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.1019,
+        "longitude": -84.649599,
+        "stop name": "BENDER RD 6004"
+    },
+    "1362": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.079945,
+        "longitude": -84.631987,
+        "stop name": "RIVER RD 4618"
+    },
+    "1363": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.080353,
+        "longitude": -84.633096,
+        "stop name": "RIVER RD 4673"
+    },
+    "1367": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.082943,
+        "longitude": -84.637187,
+        "stop name": "RIVER RD 4837"
+    },
+    "1368": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.082712,
+        "longitude": -84.636556,
+        "stop name": "RIVER RD 4848"
+    },
+    "1369": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.084243,
+        "longitude": -84.638707,
+        "stop name": "RIVER RD 4855"
+    },
+    "1370": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.084484,
+        "longitude": -84.638685,
+        "stop name": "RIVER RD 4934"
+    },
+    "1375": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.095272,
+        "longitude": -84.632541,
+        "stop name": "DELHI RD & KATIEBUD DR"
+    },
+    "1377": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.095433,
+        "longitude": -84.632472,
+        "stop name": "DELHI RD & WOODLAND RIDGE DR"
+    },
+    "1382": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.096237,
+        "longitude": -84.63748,
+        "stop name": "DELHI RD & NEEB RD"
+    },
+    "1383": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.096345,
+        "longitude": -84.637084,
+        "stop name": "DELHI RD & NEEB RD"
+    },
+    "1384": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.09643,
+        "longitude": -84.639698,
+        "stop name": "DELHI RD & MATTINGLY BLVD"
+    },
+    "1390": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.131249,
+        "longitude": -84.631296,
+        "stop name": "SIDNEY & SABLE"
+    },
+    "1391": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.131304,
+        "longitude": -84.630865,
+        "stop name": "SIDNEY & SABLE"
+    },
+    "1392": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.131996,
+        "longitude": -84.633225,
+        "stop name": "SIDNEY & NEEB"
+    },
+    "1393": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.132245,
+        "longitude": -84.633634,
+        "stop name": "NEEB RD & SIDNEY AVE"
+    },
+    "1394": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.133794,
+        "longitude": -84.630182,
+        "stop name": "MUDDY CREEK RD & MADONNA DR"
+    },
+    "1396": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.133801,
+        "longitude": -84.6317,
+        "stop name": "MUDDY CREEK RD & WINGHAM DR"
+    },
+    "1402": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.07712,
+        "longitude": -84.623337,
+        "stop name": "ANDERSON FERRY"
+    },
+    "1403": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.077285,
+        "longitude": -84.623424,
+        "stop name": "ANDERSON FERRY"
+    },
+    "1404": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.077518,
+        "longitude": -84.626042,
+        "stop name": "RIVER RD & CATHCART ST"
+    },
+    "1405": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.077572,
+        "longitude": -84.625447,
+        "stop name": "RIVER RD & CATHCART ST"
+    },
+    "1412": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.092658,
+        "longitude": -84.621308,
+        "stop name": "DELHI RD & APPLECREEK CT"
+    },
+    "1413": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.092702,
+        "longitude": -84.62167,
+        "stop name": "DELHI RD & APPLECREEK CT"
+    },
+    "1415": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.093285,
+        "longitude": -84.625079,
+        "stop name": "DELHI RD & MORRVUE DR"
+    },
+    "1416": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.093535,
+        "longitude": -84.62515,
+        "stop name": "DELHI RD & MORRVUE DR"
+    },
+    "1421": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.094359,
+        "longitude": -84.628968,
+        "stop name": "DELHI RD & SUNAIRE TER"
+    },
+    "1422": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.094502,
+        "longitude": -84.62884,
+        "stop name": "DELHI RD & SUNAIRE TER"
+    },
+    "1436": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.12665,
+        "longitude": -84.622259,
+        "stop name": "SIDNEY & SYLVED"
+    },
+    "1438": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.126791,
+        "longitude": -84.623696,
+        "stop name": "SIDNEY & CHURCHWOOD"
+    },
+    "1439": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.126794,
+        "longitude": -84.62191,
+        "stop name": "SIDNEY AVE & SYLVED LN"
+    },
+    "1440": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.126889,
+        "longitude": -84.623439,
+        "stop name": "SIDNEY & CHURCHWOOD"
+    },
+    "1441": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.126936,
+        "longitude": -84.622249,
+        "stop name": "SYLVED LN & SIDNEY AVE"
+    },
+    "1445": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.127935,
+        "longitude": -84.622134,
+        "stop name": "SYLVED LN 1965"
+    },
+    "1446": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.128137,
+        "longitude": -84.62447,
+        "stop name": "SIDNEY & ANTONINUS"
+    },
+    "1447": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.128395,
+        "longitude": -84.624797,
+        "stop name": "SIDNEY & ANTONINUS"
+    },
+    "1448": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.128819,
+        "longitude": -84.622043,
+        "stop name": "SYLVED LN 2051"
+    },
+    "1449": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.129167,
+        "longitude": -84.621799,
+        "stop name": "SYLVED LN 2050"
+    },
+    "1450": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.130748,
+        "longitude": -84.626823,
+        "stop name": "SIDNEY RD & TOWNSEND RD"
+    },
+    "1451": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.129581,
+        "longitude": -84.625559,
+        "stop name": "SIDNEY & BELLFIELD"
+    },
+    "1455": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.130597,
+        "longitude": -84.626076,
+        "stop name": "SIDNEY & TOWNSEND"
+    },
+    "1459": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.132879,
+        "longitude": -84.621622,
+        "stop name": "SYLVED LN & LINNEHILL LN"
+    },
+    "1460": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.134003,
+        "longitude": -84.621881,
+        "stop name": "MUDDY CREEK RD & SYLVED LN"
+    },
+    "1461": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.134048,
+        "longitude": -84.621391,
+        "stop name": "SYLVED LN & MUDDY CREEK RD"
+    },
+    "1464": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.134327,
+        "longitude": -84.625665,
+        "stop name": "MUDDY CREEK RD & FAIRGREEN DR"
+    },
+    "1465": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.134444,
+        "longitude": -84.625152,
+        "stop name": "MUDDY CREEK RD & FAIRGREEN DR"
+    },
+    "1466": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.134861,
+        "longitude": -84.621148,
+        "stop name": "MUDDY CREEK RD & ROBINET DR"
+    },
+    "1467": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.135548,
+        "longitude": -84.620718,
+        "stop name": "MUDDYCREEK RD 3650"
+    },
+    "1502": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.143933,
+        "longitude": -84.622117,
+        "stop name": "GLENWAY AVE 6173"
+    },
+    "1503": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.143943,
+        "longitude": -84.621743,
+        "stop name": "GLENWAY AVE 6160"
+    },
+    "1508": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.145634,
+        "longitude": -84.624399,
+        "stop name": "GLENWAY AVE & PARKCREST LN"
+    },
+    "1510": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.146011,
+        "longitude": -84.623232,
+        "stop name": "PARKCREST LN & HOME DEPOT"
+    },
+    "1512": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.146327,
+        "longitude": -84.621742,
+        "stop name": "PARKCREST LN LAYOVER"
+    },
+    "1515": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.147596,
+        "longitude": -84.625291,
+        "stop name": "WESTERNWOODS MALL"
+    },
+    "1519": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.148272,
+        "longitude": -84.620692,
+        "stop name": "WESTERNWOODS MALL & PARKCREST LN"
+    },
+    "1522": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.148492,
+        "longitude": -84.622421,
+        "stop name": "WESTERN WOODS MALL FACTORY DIRECT"
+    },
+    "1529": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.149477,
+        "longitude": -84.620251,
+        "stop name": "APPLEGATE AVE & ROBB AVE"
+    },
+    "1531": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.151208,
+        "longitude": -84.620221,
+        "stop name": "ROBB AVE 3445"
+    },
+    "1542": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.159747,
+        "longitude": -84.62002,
+        "stop name": "HARRISON AVE & NOLAN AVE"
+    },
+    "1543": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.160264,
+        "longitude": -84.620536,
+        "stop name": "HARRISON AVE & NOLAN AVE"
+    },
+    "1547": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.160718,
+        "longitude": -84.621284,
+        "stop name": "SCHOOL SECTION RD & HARRISON RD"
+    },
+    "1548": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.160888,
+        "longitude": -84.621051,
+        "stop name": "SCHOOL SECTION RD & HARRISON RD"
+    },
+    "1555": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.162315,
+        "longitude": -84.621078,
+        "stop name": "SCHOOL SECTION RD 3961"
+    },
+    "1557": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.162583,
+        "longitude": -84.620834,
+        "stop name": "SCHOOL SECTION RD 3962"
+    },
+    "1561": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.163913,
+        "longitude": -84.620662,
+        "stop name": "SCHOOL SECTION RD & HOMELAWN AVE"
+    },
+    "1563": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.164145,
+        "longitude": -84.620849,
+        "stop name": "SCHOOL SECTION RD & HOMELAWN AVE"
+    },
+    "1565": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.165483,
+        "longitude": -84.620701,
+        "stop name": "SCHOOL SECTION & WESTWOOD NORTHERN BLVD"
+    },
+    "1566": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.165662,
+        "longitude": -84.620468,
+        "stop name": "SCHOOL SECTION RD & WESTWOOD NORTHERN BLVD"
+    },
+    "1602": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.076471,
+        "longitude": -84.610114,
+        "stop name": "RIVER RD 4049"
+    },
+    "1605": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.076665,
+        "longitude": -84.617709,
+        "stop name": "RIVER RD 4203"
+    },
+    "1607": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.0768,
+        "longitude": -84.616963,
+        "stop name": "RIVER RD 4228"
+    },
+    "1614": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.093705,
+        "longitude": -84.619001,
+        "stop name": "DELHI RD 5314"
+    },
+    "1615": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.093703,
+        "longitude": -84.618516,
+        "stop name": "DELHI RD & ANDERSON FERRY RD"
+    },
+    "1617": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.094203,
+        "longitude": -84.61743,
+        "stop name": "DELHI RD & ANDERSON FERRY RD"
+    },
+    "1618": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.094097,
+        "longitude": -84.616886,
+        "stop name": "DELHI RD 5297"
+    },
+    "1619": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.094289,
+        "longitude": -84.61584,
+        "stop name": "DELHI RD & MT ALVERNO RD"
+    },
+    "1620": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.094392,
+        "longitude": -84.616249,
+        "stop name": "DELHI RD & MT ALVERNO RD"
+    },
+    "1621": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.094757,
+        "longitude": -84.613122,
+        "stop name": "DELHI RD & GLEN OAKS DR"
+    },
+    "1622": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.094972,
+        "longitude": -84.612831,
+        "stop name": "DELHI RD & GLEN OAKS DR"
+    },
+    "1623": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.096713,
+        "longitude": -84.618051,
+        "stop name": "ANDERSON FERRY RD & CANNAS DR"
+    },
+    "1624": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.096847,
+        "longitude": -84.61783,
+        "stop name": "ANDERSON FERRY RD & CANNAS DR"
+    },
+    "1625": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.098391,
+        "longitude": -84.61788,
+        "stop name": "ANDERSON FERRY RD & FARMHOUSE LN"
+    },
+    "1626": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.098462,
+        "longitude": -84.617671,
+        "stop name": "ANDERSON FERRY RD & FARMHOUSE LN"
+    },
+    "1627": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.100497,
+        "longitude": -84.617676,
+        "stop name": "ANDERSON FERRY RD & ROMANCE LN"
+    },
+    "1628": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.100568,
+        "longitude": -84.617466,
+        "stop name": "ANDERSON FERRY RD & ROMANCE LN"
+    },
+    "1629": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.101907,
+        "longitude": -84.617317,
+        "stop name": "ANDERSON FERRY RD & PLOVER LN"
+    },
+    "1630": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.102103,
+        "longitude": -84.617516,
+        "stop name": "ANDERSON FERRY RD & PLOVER LN"
+    },
+    "1631": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.103924,
+        "longitude": -84.617147,
+        "stop name": "ANDERSON FERRY RD & FOLEY RD"
+    },
+    "1632": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.104182,
+        "longitude": -84.617311,
+        "stop name": "ANDERSON FERRY RD & FOLEY RD"
+    },
+    "1635": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.107386,
+        "longitude": -84.616911,
+        "stop name": "ANDERSON FERRY RD 755"
+    },
+    "1636": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.107743,
+        "longitude": -84.616667,
+        "stop name": "ANDERSON FERRY RD 740"
+    },
+    "1637": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.109353,
+        "longitude": -84.616764,
+        "stop name": "ANDERSON FERRY RD & RAPID RUN RD"
+    },
+    "1638": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.110277,
+        "longitude": -84.61651,
+        "stop name": "ANDERSON FERRY RD & RAPID RUN RD"
+    },
+    "1642": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.113668,
+        "longitude": -84.616366,
+        "stop name": "ANDERSON FERRY RD & ANDY CT"
+    },
+    "1643": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.113766,
+        "longitude": -84.616577,
+        "stop name": "ANDERSON FERRY RD & ANDY CT"
+    },
+    "1644": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.114739,
+        "longitude": -84.616299,
+        "stop name": "ANDERSON FERRY RD & ALVERA DR"
+    },
+    "1645": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.115336,
+        "longitude": -84.616499,
+        "stop name": "ANDERSON FERRY RD 1101"
+    },
+    "1654": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.118031,
+        "longitude": -84.616576,
+        "stop name": "ANDERSON FERRY RD & WILLNET DR"
+    },
+    "1655": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.11812,
+        "longitude": -84.616774,
+        "stop name": "ANDERSON FERRY RD & WILLNET DR"
+    },
+    "1666": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.123464,
+        "longitude": -84.617185,
+        "stop name": "ANDERSON FERRY RD & JULMAR DR"
+    },
+    "1667": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.123624,
+        "longitude": -84.617465,
+        "stop name": "ANDERSON FERRY RD & JULMAR DR"
+    },
+    "1696": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.130448,
+        "longitude": -84.614937,
+        "stop name": "Glenway Crossing Transit Center A"
+    },
+    "1697": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.130398,
+        "longitude": -84.615145,
+        "stop name": "Glenway Crossing Transit Center B"
+    },
+    "1698": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.130344,
+        "longitude": -84.615347,
+        "stop name": "Glenway Crossing Transit Center C"
+    },
+    "1699": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.130169,
+        "longitude": -84.615297,
+        "stop name": "Glenway Crossing Transit Center D"
+    },
+    "1704": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.126516,
+        "longitude": -84.616655,
+        "stop name": "ANDERSON FERRY RD & SIDNEY AVE"
+    },
+    "1705": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.126453,
+        "longitude": -84.616982,
+        "stop name": "ANDERSON FERRY RD & SIDNEY AVE"
+    },
+    "1706": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.126458,
+        "longitude": -84.619305,
+        "stop name": "SIDNEY RD & FAYWOOD AVE"
+    },
+    "1707": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.126479,
+        "longitude": -84.617426,
+        "stop name": "SIDNEY RD & ANDERSON FERRY  RD"
+    },
+    "1708": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.126602,
+        "longitude": -84.618967,
+        "stop name": "SIDNEY RD & FAYWOOD AVE"
+    },
+    "1710": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.127999,
+        "longitude": -84.615375,
+        "stop name": "ANDERSON FERRY RD & CROOKSHANK RD"
+    },
+    "1711": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.128437,
+        "longitude": -84.61471,
+        "stop name": "ANDERSON FERRY RD & CROOKSHANK RD"
+    },
+    "1712": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.129869,
+        "longitude": -84.61197,
+        "stop name": "GLENCROSSING WAY 5083"
+    },
+    "1714": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.130028,
+        "longitude": -84.612916,
+        "stop name": "GLENCROSSING WAY"
+    },
+    "1716": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.132494,
+        "longitude": -84.610155,
+        "stop name": "GLENWAY AVE & WEST TOWER AVE"
+    },
+    "1717": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.132574,
+        "longitude": -84.610447,
+        "stop name": "GLENWAY AVE & WEST TOWER AVE"
+    },
+    "1718": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.134669,
+        "longitude": -84.611853,
+        "stop name": "GLENWAY AVE & MIDWAY AVE"
+    },
+    "1719": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.134731,
+        "longitude": -84.612157,
+        "stop name": "GLENWAY AVE & MIDWAY AVE"
+    },
+    "1722": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.135809,
+        "longitude": -84.613491,
+        "stop name": "GLENWAY AVE & ANDERSON FERRY RD"
+    },
+    "1723": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.136193,
+        "longitude": -84.618945,
+        "stop name": "MUDDY CREEK RD & ALLVIEW CIR"
+    },
+    "1724": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.136399,
+        "longitude": -84.618817,
+        "stop name": "MUDDY CREEK RD & ALLVIEW CIR"
+    },
+    "1726": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.136676,
+        "longitude": -84.615624,
+        "stop name": "MUDDY CREEK RD & GLENWAY AVE"
+    },
+    "1727": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.136678,
+        "longitude": -84.616681,
+        "stop name": "MUDDY CREEK RD 3424"
+    },
+    "1728": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.133675,
+        "longitude": -84.632225,
+        "stop name": "MUDDY CREEK RD. & WINGHAM DR."
+    },
+    "1729": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.136762,
+        "longitude": -84.614147,
+        "stop name": "GLENWAY AVE & MUDDY CREEK RD"
+    },
+    "1730": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.136758,
+        "longitude": -84.615869,
+        "stop name": "MUDDY CREEK RD & ROSEBUD DR"
+    },
+    "1733": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.137307,
+        "longitude": -84.614032,
+        "stop name": "GLENMORE AVE & MUDDY CREEK RD"
+    },
+    "1734": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.137468,
+        "longitude": -84.61381,
+        "stop name": "GLENMORE AVE & MUDDY CREEK RD"
+    },
+    "1735": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.138393,
+        "longitude": -84.615774,
+        "stop name": "GLENWAY AVE & LUMARDO AVE"
+    },
+    "1737": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.139391,
+        "longitude": -84.616641,
+        "stop name": "GLENWAY AVE & CORRINE AVE"
+    },
+    "1738": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.13957,
+        "longitude": -84.616536,
+        "stop name": "GLENWAY AVE & CORRINE AVE"
+    },
+    "1740": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.140564,
+        "longitude": -84.613724,
+        "stop name": "GLENMORE AVE & WERK RD"
+    },
+    "1741": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.1406,
+        "longitude": -84.613514,
+        "stop name": "GLENMORE AVE & WERK RD"
+    },
+    "1743": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.140773,
+        "longitude": -84.611168,
+        "stop name": "WERK RD & QUEEN CITY AVE"
+    },
+    "1744": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.140851,
+        "longitude": -84.612989,
+        "stop name": "WERK RD & GLENMORE AVE"
+    },
+    "1745": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.138465,
+        "longitude": -84.615576,
+        "stop name": "GLENWAY AVE & LUMARDO AVE"
+    },
+    "1746": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.140942,
+        "longitude": -84.611413,
+        "stop name": "WERK RD & QUEEN CITY AVE"
+    },
+    "1747": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.141028,
+        "longitude": -84.613375,
+        "stop name": "WERK RD & GLENMORE AVE"
+    },
+    "1749": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.14106,
+        "longitude": -84.615991,
+        "stop name": "WERK RD & BELDEN CIR"
+    },
+    "1750": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.141165,
+        "longitude": -84.617906,
+        "stop name": "GLENWAY AVE & WERK RD"
+    },
+    "1751": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.1412,
+        "longitude": -84.617201,
+        "stop name": "WERK RD & GLENWAY AVE"
+    },
+    "1752": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.141203,
+        "longitude": -84.615793,
+        "stop name": "WERK RD & BELDEN CIR"
+    },
+    "1755": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.141483,
+        "longitude": -84.613423,
+        "stop name": "GLENMORE AVE & WERK RD"
+    },
+    "1756": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.141948,
+        "longitude": -84.619006,
+        "stop name": "GLENWAY AVE & FEDERAL DR"
+    },
+    "1758": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.142376,
+        "longitude": -84.619252,
+        "stop name": "GLENWAY AVE & FEDERAL DR"
+    },
+    "1759": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.142572,
+        "longitude": -84.613531,
+        "stop name": "GLENMORE AVE & HANNA AVE"
+    },
+    "1761": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.14325,
+        "longitude": -84.613252,
+        "stop name": "GLENMORE AVE & HANNA AVE"
+    },
+    "1762": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.144223,
+        "longitude": -84.613371,
+        "stop name": "GLENMORE AVE & RENFRO AVE"
+    },
+    "1763": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.144446,
+        "longitude": -84.61315,
+        "stop name": "GLENMORE AVE & RENFRO AVE"
+    },
+    "1766": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.146721,
+        "longitude": -84.613144,
+        "stop name": "GLENMORE AVE & DAYTONA AVE"
+    },
+    "1767": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.147061,
+        "longitude": -84.612899,
+        "stop name": "GLENMORE AVE & DAYTONA AVE"
+    },
+    "1768": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.148287,
+        "longitude": -84.612999,
+        "stop name": "GLENMORE AVE & BROADWELL AVE"
+    },
+    "1801": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.148818,
+        "longitude": -84.613021,
+        "stop name": "APPLEGATE AVE & GLENMORE AVE"
+    },
+    "1803": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.148975,
+        "longitude": -84.615415,
+        "stop name": "APPLEGATE AVE & ALBERT ST"
+    },
+    "1804": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.148996,
+        "longitude": -84.613325,
+        "stop name": "APPLEGATE AVE & GLENMORE AVE"
+    },
+    "1807": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.149127,
+        "longitude": -84.615357,
+        "stop name": "APPLEGATE AVE & ALBERT ST"
+    },
+    "1810": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.149254,
+        "longitude": -84.612274,
+        "stop name": "MONTANA AVE & GLENMORE AVE"
+    },
+    "1811": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.149246,
+        "longitude": -84.61941,
+        "stop name": "APPLEGATE AVE & ALTA VISTA AVE"
+    },
+    "1812": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.149319,
+        "longitude": -84.618277,
+        "stop name": "APPLEGATE AVE & MAYFAIR AVE"
+    },
+    "1817": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.151467,
+        "longitude": -84.619988,
+        "stop name": "ROBB AVE 3448"
+    },
+    "1822": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.153546,
+        "longitude": -84.619724,
+        "stop name": "ROBB AVE & SAINT MARTINS PL"
+    },
+    "1824": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.153796,
+        "longitude": -84.6199,
+        "stop name": "ROBB AVE & SAINT MARTINS PL"
+    },
+    "1842": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.15637,
+        "longitude": -84.610902,
+        "stop name": "HARRISON AVE & GLENMORE AVE"
+    },
+    "1845": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.156772,
+        "longitude": -84.613206,
+        "stop name": "HARRISON AVE & LOVELL AVE"
+    },
+    "1846": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.156893,
+        "longitude": -84.613251,
+        "stop name": "HARRISON AVE & LOVELL AVE"
+    },
+    "1847": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.157205,
+        "longitude": -84.61524,
+        "stop name": "HARRISON AVE & WASHINGTON AVE"
+    },
+    "1848": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.157163,
+        "longitude": -84.614529,
+        "stop name": "HARRISON AVE & WASHINGTON AVE"
+    },
+    "1849": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.157322,
+        "longitude": -84.619056,
+        "stop name": "ROBB AVE & WEST CT"
+    },
+    "1852": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.157062,
+        "longitude": -84.619336,
+        "stop name": "ROBB AVE & WEST CT"
+    },
+    "1853": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.158405,
+        "longitude": -84.618295,
+        "stop name": "HARRISON AVE & ROSWELL AVE"
+    },
+    "1854": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.158492,
+        "longitude": -84.618125,
+        "stop name": "HARRISON AVE & ROSWELL AVE"
+    },
+    "1873": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.16523,
+        "longitude": -84.610935,
+        "stop name": "WESTWOOD NORTHERN BLVD 3657"
+    },
+    "1874": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.165408,
+        "longitude": -84.611087,
+        "stop name": "WESTWOOD NORTHERN BLVD 3714"
+    },
+    "1875": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.165457,
+        "longitude": -84.614124,
+        "stop name": "WESTWOOD NORTHERN BLVD & WASHINGTON"
+    },
+    "1876": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.165582,
+        "longitude": -84.613833,
+        "stop name": "WESTWOOD NORTHERN BLVD & WASHINGTON"
+    },
+    "1878": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.165709,
+        "longitude": -84.619008,
+        "stop name": "WESTWOOD NORTHERN BLVD 4141"
+    },
+    "1880": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.165861,
+        "longitude": -84.618844,
+        "stop name": "WESTWOOD NORTHERN BLVD 4134"
+    },
+    "1902": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.076585,
+        "longitude": -84.605296,
+        "stop name": "RIVER RD & BOWDITCH ST"
+    },
+    "1903": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.076632,
+        "longitude": -84.609916,
+        "stop name": "RIVER RD 4050"
+    },
+    "1905": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.076745,
+        "longitude": -84.605214,
+        "stop name": "RIVER RD & BOWDITCH ST"
+    },
+    "1909": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.089462,
+        "longitude": -84.60375,
+        "stop name": "MT ALVERNO RD & IHLE DR"
+    },
+    "1910": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.089595,
+        "longitude": -84.603902,
+        "stop name": "MT ALVERNO RD & IHLE DR"
+    },
+    "1913": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.090083,
+        "longitude": -84.606086,
+        "stop name": "MT ALVERNO RD & GREENWELL AVE"
+    },
+    "1914": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.090266,
+        "longitude": -84.600313,
+        "stop name": "MT ALVERNO RD & PEDRETTI AVE"
+    },
+    "1915": {
+        "features": [],
+        "active headings": [],
+        "rating": 0,
+        "sidewalk": false,
+        "latitude": 39.09027,
+        "longitude": -84.606343,
+        "stop name": "GREENWELL AVE & MT ALVERNO RD"
+    }
+}
